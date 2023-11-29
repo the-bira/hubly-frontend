@@ -1,0 +1,13 @@
+{
+  "personalDataForm": {
+    "fullName": "Nome Completo",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "address": "Endereço",
+    "city": "Cidade",
+    "country": "País",
+    "postalCode": "Código Postal",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  }
+}

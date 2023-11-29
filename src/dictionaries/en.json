@@ -1,0 +1,19 @@
+{
+  "personalDataForm": {
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "postalCode": "Postal Code",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
